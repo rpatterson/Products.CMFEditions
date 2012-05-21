@@ -37,6 +37,7 @@ setup(name='Products.CMFEditions',
         'zope.dottedname',
         'zope.i18nmessageid',
         'zope.interface',
+        'zope.copy',
         'Products.CMFCore >=2.1',
         'Products.CMFDiffTool',  # dependency in diff template
         'Products.CMFUid',
